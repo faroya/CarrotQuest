@@ -1,4 +1,4 @@
-# Rabbit Pygame Project
+# A simple Pygame project
 
 In this project, I have implemented a simple game using the Pygame library where a rabbit tries to catch falling carrots. Each time a carrot is caught, the score increases. Here are the details of the project.
 
